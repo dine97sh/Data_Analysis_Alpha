@@ -1,0 +1,115 @@
+drugname,CountyName,AverageMiles,PercentMailOrder (%)
+Insulin,Alameda County,7.16,33.5
+Insulin,Amador County,16.92,35.3
+Insulin,Butte County,14.5,11.1
+Insulin,Calaveras County,19.58,21.8
+Insulin,Colusa County,18.74,16.8
+Insulin,Contra Costa County,7.46,35.5
+Insulin,Del Norte County,8.54,21.2
+Insulin,El Dorado County,11.17,33.3
+Insulin,Fresno County,10.75,16.7
+Insulin,Glenn County,11.86,16.5
+Insulin,Humboldt County,7.06,13.2
+Insulin,Imperial County,12.29,12.3
+Insulin,Inyo County,23.96,9.7
+Insulin,Kern County,11.14,14.4
+Insulin,Kings County,8.46,16.9
+Insulin,Lake County,15.94,16
+Insulin,Lassen County,18.9,19.9
+Insulin,Los Angeles County,6.26,15.5
+Insulin,Madera County,16.04,22.4
+Insulin,Marin County,9.1,32.5
+Insulin,Mariposa County,21.33,26.4
+Insulin,Mendocino County,20.57,13.2
+Insulin,Merced County,14.01,12.8
+Insulin,Modoc County,16.61,18.7
+Insulin,Mono County,23.89,35.4
+Insulin,Monterey County,10.82,15.9
+Insulin,Napa County,7.96,33.9
+Insulin,Nevada County,13.59,18
+Insulin,Orange County,5.51,15.2
+Insulin,Placer County,9.39,34.9
+Insulin,Plumas County,19.57,20.4
+Insulin,Riverside County,9.88,16.7
+Insulin,Sacramento County,7.13,31.2
+Insulin,San Benito County,11.77,22.2
+Insulin,San Bernardino County,8.51,16.6
+Insulin,San Diego County,7.93,18.5
+Insulin,San Francisco County,9.03,24.1
+Insulin,San Joaquin County,8.28,29
+Insulin,San Luis Obispo County,13.25,15.5
+Insulin,San Mateo County,7.11,32.5
+Insulin,Santa Barbara County,10.7,12.8
+Insulin,Santa Clara County,7.88,32.3
+Insulin,Santa Cruz County,8.31,17.7
+Insulin,Shasta County,13.85,14
+Insulin,Sierra County,22.78,39.6
+Insulin,Siskiyou County,12.73,20.7
+Insulin,Solano County,7.71,39.4
+Insulin,Sonoma County,10.94,37.4
+Insulin,Stanislaus County,9.91,25
+Insulin,Sutter County,12.59,17
+Insulin,Tehama County,12.48,12.2
+Insulin,Trinity County,16.17,10.1
+Insulin,Tulare County,12.59,16.8
+Insulin,Tuolumne County,17.71,22.6
+Insulin,Ventura County,8.3,17
+Insulin,Yolo County,9.15,21.9
+Insulin,Yuba County,13.66,21.9
+Metformin,Alameda County,5.73,42.3
+Metformin,Amador County,14,36.4
+Metformin,Butte County,9.74,16.1
+Metformin,Calaveras County,15.68,33.7
+Metformin,Colusa County,14.1,13.5
+Metformin,Contra Costa County,5.95,46.2
+Metformin,Del Norte County,9.24,25.7
+Metformin,El Dorado County,8.84,40.6
+Metformin,Fresno County,7.42,18.7
+Metformin,Glenn County,9.42,16.1
+Metformin,Humboldt County,6.62,17.5
+Metformin,Imperial County,9.87,11.1
+Metformin,Inyo County,21.04,8.9
+Metformin,Kern County,7.83,16.5
+Metformin,Kings County,7.72,17.9
+Metformin,Lake County,11.08,16.7
+Metformin,Lassen County,15.82,19.9
+Metformin,Los Angeles County,4.86,18.2
+Metformin,Madera County,9.82,26.2
+Metformin,Marin County,7.01,39.6
+Metformin,Mariposa County,17.01,36.2
+Metformin,Mendocino County,16.64,18.1
+Metformin,Merced County,8.18,13.9
+Metformin,Modoc County,23.59,27.9
+Metformin,Mono County,23.35,21
+Metformin,Monterey County,7.81,17.9
+Metformin,Napa County,7.8,41.7
+Metformin,Nevada County,11.8,24.3
+Metformin,Orange County,4.15,17.6
+Metformin,Placer County,7.08,44
+Metformin,Plumas County,15.19,24.7
+Metformin,Riverside County,8.06,22
+Metformin,Sacramento County,5.45,37.6
+Metformin,San Benito County,8.33,22.9
+Metformin,San Bernardino County,7.09,20.9
+Metformin,San Diego County,6.31,26.7
+Metformin,San Francisco County,5.52,28.7
+Metformin,San Joaquin County,6.12,34.6
+Metformin,San Luis Obispo County,10.94,20.8
+Metformin,San Mateo County,5.31,39.2
+Metformin,Santa Barbara County,6.95,15.1
+Metformin,Santa Clara County,5.71,36.6
+Metformin,Santa Cruz County,5.66,22.4
+Metformin,Shasta County,12.64,21.1
+Metformin,Sierra County,25.91,43.2
+Metformin,Siskiyou County,13.25,31.2
+Metformin,Solano County,6.51,48
+Metformin,Sonoma County,9.04,44.7
+Metformin,Stanislaus County,7.55,30.4
+Metformin,Sutter County,6.42,14.4
+Metformin,Tehama County,12.9,15.1
+Metformin,Trinity County,20.3,28.7
+Metformin,Tulare County,9.87,19.2
+Metformin,Tuolumne County,12.57,30.6
+Metformin,Ventura County,5.34,20.6
+Metformin,Yolo County,6.09,26.4
+Metformin,Yuba County,12.01,23.7
